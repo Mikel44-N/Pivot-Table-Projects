@@ -1,5 +1,5 @@
 # Excel Pivot-Table-Projects
-A collection of Excel Pivot Tables
+# A collection of Excel Pivot Tables
 This repository contains Excel Pivot Table projects demonstrating practical data analysis, reporting, and dashboard-building skills. Each project uses publicly available or course-generated datasets to showcase your ability to organize, summarize, and visualize data for insights.
 
 Table of Contents
